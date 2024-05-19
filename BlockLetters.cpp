@@ -4,11 +4,11 @@
 int main()
 {
 	//Prints the initials SL
-	std::cout << " SSS ";
-	std::cout << "S   S";
-	std::cout << "S";
-	std::cout << " SSS";
-	std::cout << "    S";
-	std::cout << "S   S";
-	std::cout << " SSS";
+	std::cout << " SSS  L    \n";
+	std::cout << "S   S L    \n";
+	std::cout << "S     L    \n";
+	std::cout << " SSS  L    \n";
+	std::cout << "    S L    \n";
+	std::cout << "S   S L    \n";
+	std::cout << " SSS  LLLLL\n";
 }
